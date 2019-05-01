@@ -3,7 +3,7 @@
 
 def parrot(say = "Squawk!")
   print "#{say}"
-  gets "#{say}" 
+  gets 
 end
 
 parrot()
